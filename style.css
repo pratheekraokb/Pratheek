@@ -176,3 +176,26 @@ section.projectSec button a{
   }
   
 
+  img{
+    height: 120px;
+    border-radius: 20px;
+    
+  }
+  div.imgTxt{
+    display: flex;
+  }
+  div.right{
+    padding-left: 5px;
+  }
+
+  div.right a{
+    text-decoration: none;
+    color:black
+  }
+  div.right a:hover{
+    color: blueviolet;
+    font-weight: bolder;
+  }
+
+
+ 
